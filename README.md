@@ -5,9 +5,11 @@ This repository has the configuration from [LazyVim](https://github.com/LazyVim/
 ## To start using this configuration follow these steps:
 
 1. Clone the current repository
-  ```bash mv folder_name ~/.config/nvim ```
+```bash
+  mv neovim-configuration ~/.config/nvim
+```
 
-2. Install dependencies
+3. Install dependencies
 ```bash
 brew install neovim
 brew install lazygit
