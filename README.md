@@ -15,8 +15,8 @@ brew install ripgrep
 brew install fd
 ```
 
-[!NOTE]
-- If it generates some error related to the developer tools try this command: ` xcode-select --install `
+> [!NOTE]
+> If it generates some error related to the developer tools try this command: ` xcode-select --install `
 
 
 
