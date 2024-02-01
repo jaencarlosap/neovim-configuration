@@ -20,8 +20,6 @@ brew install fd
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 
-4. If you want to add Copilot to nvim follow the steps in the next url: https://github.com/github/copilot.vim
-```
-
 > [!NOTE]
 > If it generates some error related to the developer tools try this command: `xcode-select --install`
+```
