@@ -23,3 +23,7 @@ git clone git@github.com:jaencarlosap/neovim-configuration.git  ~/.config/nvim
 > [!NOTE]
 > If it generates some error related to the developer tools try this command: `xcode-select --install`
 
+> [!NOTE]
+> If it generate some error related to load the lazy plugins try remove the local shares `rm -rf ~/.local/share/nvim/`
+
+
