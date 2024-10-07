@@ -13,12 +13,12 @@ This repository has the configuration from [LazyVim](https://github.com/LazyVim/
 3. Install dependencies
 
 ```bash
-brew install neovim
-brew install lazygit
-brew install ripgrep
-brew install fd
-brew tap homebrew/cask-fonts
-brew install --cask font-hack-nerd-font
+  brew install neovim
+  brew install lazygit
+  brew install ripgrep
+  brew install fd
+  brew tap homebrew/cask-fonts
+  brew install --cask font-hack-nerd-font
 
 > [!NOTE]
 > If it generates some error related to the developer tools try this command: `xcode-select --install`
