@@ -7,7 +7,7 @@ This repository has the configuration from [LazyVim](https://github.com/LazyVim/
 1. Clone the current repository
 
 ```bash
-  mv neovim-configuration ~/.config/nvim
+git clone git@github.com:jaencarlosap/neovim-configuration.git  ~/.config/nvim
 ```
 
 3. Install dependencies
